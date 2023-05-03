@@ -14,23 +14,23 @@
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
-            "value": ""
+            "value": "16494736"
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": ""
+            "value": "2cb7fa5859e2de684e3e10d9c049621a"
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "6198417333:AAHvK4bKSVc9MH3NVdgC8aXju7k9xP-U2PQ"
         },
         "AUTH": {
             "description": "owner user id. who will get access to do batch command",
-            "value": ""
+            "value": "656718180"
         },
         "SESSION": {
             "description": "pyrogram string session. Get from- https://replit.com/@SpEcHiDe/GenerateStringSession",
-            "value": ""
+            "value": "BQBH7y4bA4x33zgU202_tmFdkFwhh1Ca3HKl5dCPn3af-IVy1BZWnX1mue2yK78j7jp2eW03tWQAjwqM9hCU6EinGTA_78BGltpwf_6R-O0h7dov0DT7KzOp4it5cm9LZNmsp2A8X5InDBRuNZCrXI7aLLYjtELqM3fjFE3Z9wYRZL8rLddn80Bj7jNmj-2i0NurEj3OHKDHAOy5IPpeRRMKtZ-Funfn1M8vKGvm_wsbTNsUYV4ZfUu2-yjHalZkDNt5aJCVa-U2BMysrBNT1bzPQGxrsDjGZrfuB9cBvOSPU3r_4FGet38ZZJiWXTvk19wZFz8QQ54c_An2rn8f9GpAAAAAAS5C6cgA"
         },
         "FORCESUB": {
             "description": "Public Channel username without using '@' to forcesub.",
