@@ -1,2 +1,2 @@
 echo "starting Bot ~@pirabts";
-gunicorn app:app & python -m main
+python3 -m main
